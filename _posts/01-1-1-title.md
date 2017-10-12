@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Doing DH"
+title: "Trove Tips and Tricks"
 ---
 
 
